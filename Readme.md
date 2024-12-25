@@ -54,5 +54,10 @@ InstaMarket takes security seriously by leveraging the power of the blockchain t
 - **Low Fees**: By using GAS tokens on the NeoX blockchain, users can enjoy low transaction fees compared to traditional platforms.
 - **Security and Transparency**: All transactions are recorded on the blockchain, ensuring transparency and security. Once a page is listed for sale or purchased, the transaction is immutable and visible to all participants.
 
+## Screenshots
+<img width="1440" alt="Screenshot 2024-12-25 at 6 29 55 PM" src="https://github.com/user-attachments/assets/6058bfef-5248-400d-b533-3c0f70e1879d" />
+<img width="1305" alt="Screenshot 2024-12-25 at 6 31 49 PM" src="https://github.com/user-attachments/assets/abac68db-9c83-48e3-9d4a-06a0732c2a0b" />
+<img width="1440" alt="Screenshot 2024-12-25 at 6 31 04 PM" src="https://github.com/user-attachments/assets/b9b2dabf-c253-4b3e-afd8-4649b6874a4f" />
+
 Thank you for using InstaMarket, and we hope this platform helps you buy and sell Instagram pages with ease and security!
 
