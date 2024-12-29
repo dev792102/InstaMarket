@@ -31,14 +31,14 @@ InstaMarket connects sellers and buyers through smart contracts deployed on the 
 
 The InstaMarket DApp runs on a smart contract deployed on the NeoX blockchain. The contract allows users to list their Instagram pages for sale, purchase pages, and track the sale status of each page. It ensures that all transactions are secure, transparent, and verifiable on the blockchain.
 
-- **Contract Address**: `0x7FFDa9962b993d44736cf37cbb634214B2658b68`
-- **Network**: NeoX Testnet T4
+- **Contract Address**: `0xe9E1d2fd34324b986D8f37c20Cf3e03398e66cfb`
+- **Network**: NeoX Mainnet
 
 ## Deployment
 
 InstaMarket is deployed on the NeoX blockchain, which is a cutting-edge blockchain platform offering fast and secure transactions with low fees. GAS tokens are used as the transaction currency on the platform. 
 
-- **Contract Address**: [View on Explorer](https://xt4scan.ngd.network/address/0x7FFDa9962b993d44736cf37cbb634214B2658b68)
+- **Contract Address**: [View on Explorer](https://xexplorer.neo.org/address/0xe9E1d2fd34324b986D8f37c20Cf3e03398e66cfb)
 - **Coin Used**: GAS
 
 By using GAS tokens, InstaMarket ensures that transactions are cost-effective and easy for users to engage with, whether they are listing a page for sale or purchasing one.
